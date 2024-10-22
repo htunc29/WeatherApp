@@ -24,3 +24,5 @@ Bu proje, JavaScript `fetch` API kullanarak [CollectAPI](https://collectapi.com/
 
    ```bash
    git clone https://github.com/htunc29/Weather.git
+1. Test Etmek İçin:
+   [WeatherApp](https://htunc29.github.io/WeatherApp/)
